@@ -1,0 +1,6 @@
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Dao\bin\Debug\Dao.dll
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Dao\bin\Debug\Dao.pdb
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Dao\obj\Debug\Dao.dll
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Dao\obj\Debug\Dao.pdb

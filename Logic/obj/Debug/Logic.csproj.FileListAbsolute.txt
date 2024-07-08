@@ -1,0 +1,6 @@
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Logic\bin\Debug\Logic.dll
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Logic\bin\Debug\Logic.pdb
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Logic\obj\Debug\Logic.dll
+F:\Backup\Escritorio\facultad\3 Año\Weingand tesis\Parcial 01\Logic\obj\Debug\Logic.pdb
